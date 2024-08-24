@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-Author-Sachin Yadav
+Author-Sachin Yadav[Bsc -it]
